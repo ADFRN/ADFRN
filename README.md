@@ -9,10 +9,6 @@
 
 ## 🛠️ Tech Stack
 
-### School
-
-![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
-
 ### Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -41,5 +37,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-##
+
+## 🏫 School
+
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 
