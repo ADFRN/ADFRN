@@ -42,3 +42,12 @@
 
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 
+
+## 📊 GitHub Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADFRN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADFRN&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADFRN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
